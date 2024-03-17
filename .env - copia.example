@@ -1,6 +1,6 @@
 APP_NAME=Laravel
 APP_ENV=local
-APP_KEY=base64:nptTP6ubOlMLnK1j48BCAvo3+atHsOgU0jerfEtoqQE=
+APP_KEY=
 APP_DEBUG=true
 APP_URL=http://localhost
 
@@ -11,12 +11,10 @@ LOG_LEVEL=debug
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=gofive_bd
-#DB_USERNAME=root
-#DB_PASSWORD=
+DB_DATABASE=laravel_vue_ecommerce
+DB_USERNAME=root
+DB_PASSWORD=
 
-DB_USERNAME=javier
-DB_PASSWORD=Javier1052?@
 BROADCAST_DRIVER=log
 CACHE_DRIVER=file
 FILESYSTEM_DISK=local
