@@ -9,7 +9,7 @@ module.exports = {
     },
     {
       name: "vite",
-      script: "npm run start",
+      script: "npm run dev --host",
       watch: true,
       env: {
         NODE_ENV: "production",
